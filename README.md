@@ -15,4 +15,3 @@ Define Repository Structure:
             index.html
          js folder
             noch leer kommt aber noch javascript  
-blabla
