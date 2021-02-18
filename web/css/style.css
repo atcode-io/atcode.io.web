@@ -1,0 +1,23 @@
+.header {
+    height:600px;
+    background-size:cover;
+    background-position:50% 10%;
+    
+}
+
+.links{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("../logo/binarycodelight.jpg");
+    background-size: cover;
+    height: 525px;
+    width: 100%;
+}
+
+a:link{
+    color: #0e681a;
+    text-decoration: none;
+    
+}
+.logo{
+    padding: center;
+}
