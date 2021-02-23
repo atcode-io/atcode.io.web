@@ -1,23 +1,67 @@
-.header {
-    height:600px;
-    background-size:cover;
-    background-position:50% 10%;
-    
-}
-
 .links{
-    font-family: 'Courier New', Courier, monospace;
-    background-image: url("../logo/binarycodelight.jpg");
-    background-size: cover;
-    height: 525px;
-    width: 100%;
+    text-align: center;
+    color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../logo/binarycode.gif");
+    background-position:90% 50%;
+    height:925px;
+    background-size:cover;
 }
 
 a:link{
-    color: #0e681a;
+    
+    color: rgb(245, 255, 245);
     text-decoration: none;
+    font-size: 20px;
     
 }
-.logo{
-    padding: center;
+
+.nav-links li a{
+    color: rgba(213,232,212,255);
+    text-decoration: none;
+  }
+
+.nav-links{
+  display:flex;
+  list-style: none;
+  width: 40%;
+  height: 90px;
+  justify-content: space-around;
+  align-items: center;
+  margin-left:auto;
 }
+
+.logo{
+    height: 500px;
+    margin: -62px;
+    
+}
+
+.links h1{
+    color: black;
+    text-shadow: 0 0 3px white, 0 0 5px white;
+    font-size: 90px;
+    padding: 100px;
+}
+
+.links h2{
+    color: black;
+    text-shadow: 0 0 3px white, 0 0 5px white;
+    font-size: 70px;
+    margin: -62px;
+}
+
+.services {
+    padding-top: 50px;
+    margin: 50px;
+   /*margin-left: 500px;*/
+}
+.services p{
+    font-size: 20px;
+    margin: 20px;
+}
+
+/*
+* Hamburger effekt:
+*/
+
